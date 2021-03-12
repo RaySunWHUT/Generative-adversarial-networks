@@ -49,12 +49,17 @@ you can see the detailed analysis of the source code in my [CSDN blog](https://b
 
 **References:**
 
-https://www.cnblogs.com/LXP-Never/p/9706790.html
-https://www.cnblogs.com/LXP-Never/p/9706790.html
-https://www.cnblogs.com/wupiao/articles/13323283.html
-https://docs.python.org/zh-cn/3/tutorial/classes.html
-https://www.yht7.com/news/97242
-https://zhuanlan.zhihu.com/p/93423829
+1. https://www.cnblogs.com/LXP-Never/p/9706790.html
+
+2. https://www.cnblogs.com/LXP-Never/p/9706790.html
+
+3. https://www.cnblogs.com/wupiao/articles/13323283.html
+
+4. https://docs.python.org/zh-cn/3/tutorial/classes.html
+
+5. https://www.yht7.com/news/97242
+
+6. https://zhuanlan.zhihu.com/p/93423829
 
 
 
